@@ -1,0 +1,7 @@
+python-docx
+langchain
+langchain_experimental
+langchain-experimental
+presidio_analyzer
+presidio-anonymizer 
+faker
